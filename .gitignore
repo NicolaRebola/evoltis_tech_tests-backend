@@ -1,0 +1,6 @@
+.github
+.vs
+
+TechnicalTests.Api/bin
+TechnicalTests.Api/.env
+TechnicalTests.Api/obj
